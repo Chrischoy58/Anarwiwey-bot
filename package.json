@@ -1,0 +1,19 @@
+{
+  "name": "immaculateslightobjectpool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "minecraft-data": "^2.112.0",
+    "mineflayer": "^3.18.0",
+    "mineflayer-antiafk": "github:Etiaro/mineflayer-antiafk",
+    "mineflayer-pathfinder": "^1.9.1"
+  }
+}
